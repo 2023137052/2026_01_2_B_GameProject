@@ -22,7 +22,7 @@ public class DialogRowData
     public string characterName;
     public string text;
     public int? nextId;
-    public string protraiPath;
+    public string portraitPath;
     public string choiceText;
     public int? choiceNextId;
 }
